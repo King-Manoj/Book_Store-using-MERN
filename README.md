@@ -1,7 +1,7 @@
 ﻿# Book_Store_Full_Stack
 # Book_Store-using-MERN
 Overview
-This is a comprehensive web application designed for a book shop. The project allows users to browse, search, and purchase books while providing admin functionalities for managing inventory and orders. The application is built with modern web technologies, ensuring a responsive and user-friendly experience.
+This is a comprehensive web application designed for a book shop. The project allows users to browse, search, and purchase books while providing admin functionalities for         managing inventory and orders. The application is built with modern web technologies, ensuring a responsive and user-friendly experience.
 
 Features                        
 User Authentication: Sign up, log in, and user sessions.
