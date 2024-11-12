@@ -3,7 +3,7 @@
 Overview
 This is a comprehensive web application designed for a book shop. The project allows users to browse, search, and purchase books while providing admin functionalities for managing inventory and orders. The application is built with modern web technologies, ensuring a responsive and user-friendly experience.
 
-Features
+Features                        
 User Authentication: Sign up, log in, and user sessions.
 Book Catalog: Browse books by category, author, or keyword search.
 Detailed Book Pages: Display book details including descriptions, author info, and reviews.
