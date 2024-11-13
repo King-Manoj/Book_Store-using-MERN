@@ -9,7 +9,7 @@ Book Catalog: Browse books by category, author, or keyword search.
 Detailed Book Pages: Display book details including descriptions, author info, and reviews.
 Shopping Cart: Add, remove, or update items.
 Order Management: Place orders and track their status.
-Admin Dashboard: Manage books, inventory, and user orders.
+Admin Dashboard: Manage books,   inventory, and user orders.
 Tech Stack
 Frontend: [React.js/Next.js/other relevant library or framework]
 Backend: [Node.js, Express.js]
